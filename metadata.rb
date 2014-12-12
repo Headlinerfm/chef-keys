@@ -1,3 +1,4 @@
+name              "chef-keys"
 maintainer        "Carlo Zottmann"
 maintainer_email  "carlo@zottmann.org"
 license           "WTFPL"
